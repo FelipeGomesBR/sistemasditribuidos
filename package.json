@@ -1,0 +1,20 @@
+{
+  "name": "ceted-users",
+  "version": "1.0.0",
+  "description": "CETED users Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-load": "^1.1.15",
+    "mysql": "^2.13.0",
+    "password-hash": "^1.2.2",
+    "q": "^1.4.1",
+    "sequelize": "^3.30.2"
+  }
+}
